@@ -1,6 +1,6 @@
 ## Olá👋
 
-Sou Gabi, formada em Análise e Desenvolvimento de Sistemas e pós graduada em Análise, Projeto e Gerência de Sistema. Sou uma pessoa curiosa e apaixonada por tecnologia!! 
+Sou a Gabi, formada em Análise e Desenvolvimento de Sistemas e pós graduada em Análise, Projeto e Gerência de Sistema. Sou uma pessoa curiosa e apaixonada por tecnologia!! 
 
 🚀 Explorando o Universo Tech:
 
