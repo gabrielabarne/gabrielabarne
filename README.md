@@ -1,6 +1,6 @@
 ## Olá👋
 
-Sou a Gabi, formada em Análise e Desenvolvimento de Sistemas e pós graduada em Análise, Projeto e Gerência de Sistema. Sou uma pessoa curiosa e apaixonada por tecnologia!! 
+Sou a Gabi, formada em Análise e Desenvolvimento de Sistemas e pós graduada em Análise, Projeto e Gerência de Sistema. Sou uma pessoa curiosa e apaixonada por tecnologia. Atualmente sou Tech Design QA, focada em qualidade, usabilidade e testes mobile (iOS e Android).
 
 🚀 Explorando o Universo Tech:
 
