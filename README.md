@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá👋
 
-<!--
-**gabrielabarne/gabrielabarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Gabi, formada em Análise e Desenvolvimento de Sistemas e pós graduada em Análise, Projeto e Gerência de Sistema. Sou uma pessoa curiosa e apaixonada por tecnologia!! 
 
-Here are some ideas to get you started:
+🚀 Explorando o Universo Tech:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Pós Graduada em Análise, Projeto e Gerência de Sistemas.
+
+💼 Analista de Testes de Software (QA).
+
+💡 Missão GitHub: Aqui registro meus passos na área tech — cursos, aprendizados e recursos que me ajudam a crescer como QA.
+
+📚 Projetos em Destaque:
+
+[Em Breve]
+
+📫 Conecte-se:
+
+LinkedIn: https://www.linkedin.com/in/gabrielabarne/
