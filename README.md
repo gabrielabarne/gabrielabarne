@@ -1,19 +1,19 @@
-## Olá👋
+## Hello👋
 
-Sou a Gabi, formada em Análise e Desenvolvimento de Sistemas e pós graduada em Análise, Projeto e Gerência de Sistema. Sou uma pessoa curiosa e apaixonada por tecnologia. Atualmente sou Tech Design QA, focada em qualidade, usabilidade e testes mobile (iOS e Android).
+I’m Gabriela, graduated in Systems Analysis and Development and holding a postgraduate degree in Systems Analysis, Design, and Management. I am a curious person passionate about technology. Currently, I work as a QA Analyst, focused on quality, usability, and mobile testing (iOS and Android).
 
-🚀 Explorando o Universo Tech:
+🚀 Exploring the Tech Universe:
 
-📚 Pós Graduada em Análise, Projeto e Gerência de Sistemas.
+📚 Postgraduate in Systems Analysis, Design, and Management.
 
-💼 Analista de Testes de Software (QA).
+💼 Software Testing Analyst (QA).
 
-💡 Missão GitHub: Aqui registro meus passos na área tech — cursos, aprendizados e recursos que me ajudam a crescer como QA.
+💡 GitHub Mission: Here I document my journey in tech — courses, learnings, and resources that help me grow as a QA professional.
 
-📚 Projetos em Destaque:
+📚 Featured Projects:
 
-[Em Breve]
+[Coming Soon]
 
-📫 Conecte-se:
+📫 Connect with me:
 
 LinkedIn: https://www.linkedin.com/in/gabrielabarne/
